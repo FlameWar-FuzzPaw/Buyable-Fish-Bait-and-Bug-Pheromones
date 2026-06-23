@@ -1,0 +1,49 @@
+{
+    "items": [
+            {
+         "item": "fish_bait_common",
+      "store": "terithia",
+      "category": "fish_bait"
+    },
+                {
+         "item": "fish_bait_uncommon",
+      "store": "terithia",
+      "category": "fish_bait"
+    },
+                {
+         "item": "fish_bait_rare",
+      "store": "terithia",
+      "category": "fish_bait"
+    },
+                    {
+         "item": "bug_pheromone_common",
+      "store": "terithia",
+      "category": "fish_bait"
+    },
+                    {
+         "item": "bug_pheromone_uncommon",
+      "store": "terithia",
+      "category": "fish_bait"
+    },
+                    {
+         "item": "bug_pheromone_rare",
+      "store": "terithia",
+      "category": "fish_bait"
+    },
+                    {
+         "item": "bug_pheromone_legendary",
+      "store": "terithia",
+      "category": "fish_bait"
+    }
+    ],
+
+    
+     "categories": [
+    {
+      "store": "terithia",
+      "icon_name": "fish_bait",
+      "sprite": "images/spr_ui_item_fish_bait_common.png"
+    }
+  ]
+
+    }
