@@ -1,5 +1,6 @@
 {
   "author": "FlameWar FuzzPaw",
   "name": "Buyable Fish Bait and Bug Pheromones",
-  "version": "1.0.0"
+  "version": "1.1.0",
+  "minInstallerVersion": "0.12.1"
 }

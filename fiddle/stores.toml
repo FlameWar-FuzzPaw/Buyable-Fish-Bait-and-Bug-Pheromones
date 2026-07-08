@@ -1,0 +1,17 @@
+
+[[terithia.categories]]
+    icon = "spr_ui_item_fish_bait_common"
+    constant_stock = [
+        { item = "fish_bait_common"},
+        { item = "fish_bait_uncommon"},
+        { item = "fish_bait_rare"},
+        { item = "bug_pheromone_common"},
+        { item = "bug_pheromone_uncommon"},
+        { item = "bug_pheromone_rare"},
+        { item = "bug_pheromone_legendary"},
+    ]
+
+
+
+
+
